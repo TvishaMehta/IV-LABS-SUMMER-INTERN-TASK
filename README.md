@@ -15,4 +15,6 @@
 ### Monte Carlo  
 ![Monte Carlo](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/bf3610c6a2e6c6416cfcb7c8a2dbc859bac46668/monte%20carlo.png)  
 ### Q Learning  
-![Q Learning](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/5e10a93befc28dccbef0d69e257437714c7c7160/q%20learning.png)
+![Q Learning](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/5e10a93befc28dccbef0d69e257437714c7c7160/q%20learning.png)  
+### Sarsa (ʎ) - Backward View  
+![sarsa lambda]()
