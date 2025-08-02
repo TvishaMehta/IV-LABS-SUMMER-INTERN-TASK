@@ -17,4 +17,4 @@
 ### Q Learning  
 ![Q Learning](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/5e10a93befc28dccbef0d69e257437714c7c7160/q%20learning.png)  
 ### Sarsa (ʎ) - Backward View  
-![sarsa lambda]()
+![sarsa lambda](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/cda8463a6c43ae44169587f77f94d479d9b1c817/sarsa%20lambda.png)
