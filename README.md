@@ -13,6 +13,6 @@
 ### These codes written in python, use the reinforcement learning approach to train an agent to reach a given goal state in the minigrid. <br><br>
 ## The following are snapshots of graphs that record the performance of the agent with regards to the rewards it earns in every episode.  
 ### Monte Carlo  
-![Monte Carlo]()
+![Monte Carlo](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/bf3610c6a2e6c6416cfcb7c8a2dbc859bac46668/monte%20carlo.png)  
 ### Q Learning  
 ![Q Learning](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/5e10a93befc28dccbef0d69e257437714c7c7160/q%20learning.png)
