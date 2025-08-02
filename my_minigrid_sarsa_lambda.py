@@ -3,7 +3,6 @@ import minigrid
 import matplotlib.pyplot as plt
 import numpy as np
 import random
-import pygame
 
 #########ENVIRONMENT SETUP############
 env = gym.make("MiniGrid-Empty-6x6-v0", render_mode='rgb_array')
@@ -182,4 +181,5 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+
 ######################################
