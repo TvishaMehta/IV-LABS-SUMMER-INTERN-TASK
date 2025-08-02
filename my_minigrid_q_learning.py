@@ -1,6 +1,5 @@
 import gymnasium as gym
 import minigrid
-import pygame
 import numpy as np
 import matplotlib.pyplot as plt
 import random
@@ -182,3 +181,4 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+
