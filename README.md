@@ -16,7 +16,7 @@
   <img src="[screenshots/agent_behavior.png](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/main/monte%20carlo.png)" alt="Agent behavior using Monte Carlo" width="400"/>
 </p>  
 <p align="center">
-  <img src="[screenshots/agent_behavior.png](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/main/q%20learning.png)" alt="Agent behavior using Q-learning" width="400"/>
+  <img src="[[screenshots/agent_behavior.png](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/main/q%20learning.png)](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/5e10a93befc28dccbef0d69e257437714c7c7160/q%20learning.png)" alt="Agent behavior using Q-learning" width="400"/>
 </p>  
 <p align="center">
   <img src="[screenshots/agent_behavior.png](https://github.com/TvishaMehta/IV-LABS-SUMMER-INTERN-TASK/blob/main/sarsa%20lambda.png)" alt="Agent behavior using Sarsa (ʎ) - backward view" width="400"/>
